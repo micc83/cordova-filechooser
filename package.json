@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihadeed/cordova-filechooser.git"
+    "url": "git+https://github.com/micc83/cordova-filechooser.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ihadeed/cordova-filechooser/issues"
+    "url": "https://github.com/micc83/cordova-filechooser/issues"
   },
-  "homepage": "https://github.com/ihadeed/cordova-filechooser#readme"
+  "homepage": "https://github.com/micc83/cordova-filechooser#readme"
 }
